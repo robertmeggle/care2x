@@ -6,6 +6,12 @@
         "framework",
         "zf2"
     ],
+	"repositories": [
+		{
+		    "type": "composer",
+		    "url": "http://packages.zendframework.com/"
+		}
+	],     
     "homepage": "http://framework.zend.com/",
     "minimum-stability": "dev",
     "require": {
